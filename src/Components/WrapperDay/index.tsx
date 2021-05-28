@@ -1,4 +1,5 @@
-import { Title, Header, Description } from "./styles";
+import { useHistory } from "react-router";
+import { Title, Header, Description, GoBack } from "./styles";
 
 interface Props {
   children: React.ReactNode;
@@ -7,13 +8,14 @@ interface Props {
 }
 
 export default function WrapperDay({ children, title, description }: Props): JSX.Element {
+  const history = useHistory();
   return (
     <>
       <Header>
         <Title>
-          <div>
-            {'<-'}
-          </div>
+          <GoBack onClick={() => history.goBack()}>
+            {'<'}
+          </GoBack>
           {title}
         </Title>
         <Description>{description}</Description>

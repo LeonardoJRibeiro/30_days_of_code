@@ -1,11 +1,18 @@
 import styled from "styled-components";
 
 export const Title = styled.h1`
- padding-left: 16px;
+  display: flex;  
+  padding-left: 16px;
+`;
+
+export const GoBack = styled.span` 
+  padding-right: 16px;
+  pointer-events: all;
+  cursor: pointer;
 `;
 
 export const Description = styled.h2`
- padding-right: 16px;
+  padding-right: 32px;
 `;
 
 export const Header = styled.header`
