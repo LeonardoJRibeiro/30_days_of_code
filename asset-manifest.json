@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/30daysofcode/static/js/main.1a3cd109.chunk.js",
+    "main.js.map": "/30daysofcode/static/js/main.1a3cd109.chunk.js.map",
+    "runtime-main.js": "/30daysofcode/static/js/runtime-main.3529af0d.js",
+    "runtime-main.js.map": "/30daysofcode/static/js/runtime-main.3529af0d.js.map",
+    "static/js/2.7fca1587.chunk.js": "/30daysofcode/static/js/2.7fca1587.chunk.js",
+    "static/js/2.7fca1587.chunk.js.map": "/30daysofcode/static/js/2.7fca1587.chunk.js.map",
+    "static/js/3.96d99e1c.chunk.js": "/30daysofcode/static/js/3.96d99e1c.chunk.js",
+    "static/js/3.96d99e1c.chunk.js.map": "/30daysofcode/static/js/3.96d99e1c.chunk.js.map",
+    "index.html": "/30daysofcode/index.html",
+    "static/js/2.7fca1587.chunk.js.LICENSE.txt": "/30daysofcode/static/js/2.7fca1587.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3529af0d.js",
+    "static/js/2.7fca1587.chunk.js",
+    "static/js/main.1a3cd109.chunk.js"
+  ]
+}
