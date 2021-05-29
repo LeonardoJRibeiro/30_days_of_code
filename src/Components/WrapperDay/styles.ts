@@ -19,6 +19,7 @@ export const Header = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
+  height: 48px;
   position: fixed;
   flex-wrap: wrap;
   top: 0;
@@ -27,4 +28,3 @@ export const Header = styled.header`
   background: rgba(0, 200, 200, 0.2);
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 `;
-
