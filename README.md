@@ -12,6 +12,8 @@
   - Definição do estilo a ser utilizado na tag <code>\<code></code>.
   - Utilização da propriedade CSS <code>box-shadow</code> para adicionar sombra aos elementos.
   - Adição de uma breve descrição do recurso utilizado no dia 01.
+- [X] Day 03
+  - Utilização do recurso de refs do React para alterar cor e opacidade de um componente filho através do componente pai e também para focalizar um campo de texto, também no componente filho através do componente pai.
 
 ### Resultado
 
