@@ -14,6 +14,8 @@
   - Adição de uma breve descrição do recurso utilizado no dia 01.
 - [X] Day 03
   - Utilização do recurso de refs do React para alterar cor e opacidade de um componente filho através do componente pai e também para focalizar um campo de texto, também no componente filho através do componente pai.
+- [X] Day 04
+  - Uso das pseudo-classes <code>:hover</code> e <code>:active</code> para animações a partir da interação do usuário e do <code>@keyframes</code> para animações automáticas.
 
 ### Resultado
 

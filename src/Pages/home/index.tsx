@@ -11,6 +11,7 @@ export default function Home(): JSX.Element {
         <LinkOfDay to="day01" label="Day 01" />
         <LinkOfDay to="day02" label="Day 02" />
         <LinkOfDay to="day03" label="Day 03" />
+        <LinkOfDay to="day04" label="Day 04" />
       </Body>
     </Container>
   )
